@@ -1,5 +1,5 @@
 /*
-std::pair is a class template that provides a way to store 
+std::pair is a class template that provides a way to store
 two heterogeneous objects as a single unit.
 */
 
@@ -8,16 +8,32 @@ two heterogeneous objects as a single unit.
 
 int main()
 {
-	// defining a pair student (roll no., name)
-	std::pair<int, std::string> student;
+    // defining a pair student (course, name)
+    std::pair<std::string, std::string> student;
 
-	//assign value to first part of student pair
-	student.first = 100;        //roll no.
-	//assign value to second part of student pair
-	student.second = "Shiv";   //name
+    // assign value to first part of student pair
+    student.first = "Computer Application"; // course
+    
+    // assign value to second part of student pair
+    student.second = "Shiv"; // name
 
-	std::cout <<"Roll No. : " << student.first << " ";
-	std::cout <<", Name : " << student.second << std::endl;
+    // detail of student
+    std::cout << "Course : " << student.first;
+    std::cout << ", Student Name : " << student.second << std::endl;
 
-	return 0;
+    // assign value to second part of student pair
+    student.second = "Amit"; // name
+
+    // detail of student
+    std::cout << "Course : " << student.first;
+    std::cout << ", Student Name : " << student.second << std::endl;
+
+    // assign value to second part of student pair
+    student.second = "Manoj"; // name
+
+    // detail of student
+    std::cout << "Course : " << student.first;
+    std::cout << ", Student Name : " << student.second << std::endl;
+
+    return 0;
 }
