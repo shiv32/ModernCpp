@@ -13,7 +13,7 @@ int main()
 
     // assign value to first part of student pair
     student.first = "Computer Application"; // course
-    
+
     // assign value to second part of student pair
     student.second = "Shiv"; // name
 
