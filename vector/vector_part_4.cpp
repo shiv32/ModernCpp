@@ -39,7 +39,7 @@ int main()
     std::cout << "vector element at index 3 using data : " << mVectp[3] << std::endl;
 
     // bounds checking
-    std::cout << "vector element at index 6 bounds checking: " << std::endl;
+    std::cout << "vector element at index 6 bounds checking using at : " << std::endl;
     std::cout << mVect.at(6) << std::endl;
 
     return 0;
