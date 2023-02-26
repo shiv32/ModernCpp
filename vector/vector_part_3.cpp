@@ -1,5 +1,6 @@
 /*
 std::vector
+
 size()                    : returns the number of elements
 resize(size_type count)   : changes the number of elements stored
 */
