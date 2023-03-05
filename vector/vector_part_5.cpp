@@ -20,7 +20,6 @@ swap         : swaps the contents
 int main()
 {
     std::vector<int> mVect;
-
     //------------------- push_back ------------------------------------------------
     for (int i = 0; i <= 5; i++)
         mVect.push_back(i * 20);
