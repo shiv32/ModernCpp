@@ -14,7 +14,7 @@ erase : erases elements
 
 int main()
 {
-    // roll no., name
+         // roll no., name
     std::map<int, std::string> map;
 
     map[100] = "Shiv";
