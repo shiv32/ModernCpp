@@ -9,9 +9,9 @@ project (map_project)
 
 # Create a sources variable with a link to all cpp files to compile
 set(SOURCES
-    map_part_3.cpp
+    map_part_4.cpp
 )
 
 # Add an executable with the above sources
-add_executable(map3 ${SOURCES})
+add_executable(map4 ${SOURCES})
 
