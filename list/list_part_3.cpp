@@ -34,6 +34,7 @@ int main()
 
     //---------------------------- pop_back ---------------------------------
     mList1.pop_back();
+
     std::cout << "pop_back : ";
 
     for (it = mList1.begin(); it != mList1.end(); ++it)
@@ -43,6 +44,7 @@ int main()
 
     //---------------------------- pop_front --------------------------------
     mList1.pop_front();
+
     std::cout << "pop_front : ";
 
     for (it = mList1.begin(); it != mList1.end(); ++it)
@@ -53,6 +55,7 @@ int main()
     //------------------------------ erase ----------------------------------
     std::list<int>::iterator positionElement = mList1.begin();
     std::advance(positionElement, 2);
+
     mList1.erase(positionElement);
 
     std::cout << "erase : ";
@@ -64,7 +67,9 @@ int main()
 
     //------------------------------- clear ----------------------------------
     std::cout << "mList1 size before clear : " << mList1.size() << std::endl;
+
     mList1.clear();
+    
     std::cout << "mList1 size after clear : " << mList1.size() << std::endl;
 
     return 0;
