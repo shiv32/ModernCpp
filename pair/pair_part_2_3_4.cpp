@@ -6,7 +6,7 @@ make_pair (function template) : Creates a pair object of type, defined by the ar
 
 get (function template)       : Accesses an element of a pair
 
-swap                          : Swaps the contents
+swap (public member function) : Swaps the contents
 
 tie (function template)       : Creates a tuple of lvalue references or unpacks a tuple into individual objects
 

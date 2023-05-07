@@ -5,13 +5,13 @@ cmake_minimum_required(VERSION 3.5)
 set(CMAKE_CXX_STANDARD 17)
 
 # Set the project name
-project (map_project)
+project (pair_project)
 
 # Create a sources variable with a link to all cpp files to compile
 set(SOURCES
-    pair_part_3.cpp
+    pair_part_4.cpp
 )
 
 # Add an executable with the above sources
-add_executable(pair3 ${SOURCES})
+add_executable(pair4 ${SOURCES})
 
