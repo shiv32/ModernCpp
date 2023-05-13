@@ -1,0 +1,3 @@
+/home/shiv/Desktop/desktop_files/projects/Modern C++/pair/build/CMakeFiles/rebuild_cache.dir
+/home/shiv/Desktop/desktop_files/projects/Modern C++/pair/build/CMakeFiles/pair4.dir
+/home/shiv/Desktop/desktop_files/projects/Modern C++/pair/build/CMakeFiles/edit_cache.dir
