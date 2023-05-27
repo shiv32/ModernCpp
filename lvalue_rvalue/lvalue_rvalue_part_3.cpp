@@ -1,7 +1,8 @@
 #include <iostream>
+
 /*
 
-std::move(parameter) (function template) :  casts an lvalue into an rvalue parameter
+std::move(parameter) (function template) :  casts an lvalue parameter into an rvalue parameter
 
 */
 
