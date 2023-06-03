@@ -1,7 +1,7 @@
 
 /*
 
-friend class : can access public, protected and private data members and methods. 
+friend class : Can access public, protected and private data members and methods of another class. 
 
 */
 
