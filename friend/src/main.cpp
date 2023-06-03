@@ -1,4 +1,10 @@
-// Call member fun of Test2 class from Test class object
+
+/*
+
+friend class : can access public, protected and private data members and methods. 
+
+*/
+
 
 #include <iostream>
 #include "friend_class_part_1.h"

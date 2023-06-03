@@ -7,10 +7,10 @@ set(CMAKE_CXX_STANDARD 17)
 # Set the project name
 project (friend_project_part_1)
 
+# Create a sources variable with a link to all cpp files to compile
 set(SOURCES
     src/friend_class_part_1.cpp
     src/main.cpp
-    include/friend_class_part_1.h
 )
 
 # Add an executable with the above sources
