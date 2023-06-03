@@ -5,7 +5,7 @@ cmake_minimum_required(VERSION 3.5)
 set(CMAKE_CXX_STANDARD 17)
 
 # Set the project name
-project (friend_project_part_1)
+project (friend_project)
 
 # Create a sources variable with a link to all cpp files to compile
 set(SOURCES
