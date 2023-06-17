@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/friend_part_2.h
+iostream
+-
+memory
+-
+
+/home/shiv/Desktop/desktop_files/projects/Modern C++/friend/friend_part_2/src/friend_part_2.cpp
+friend_part_2.h
+/home/shiv/Desktop/desktop_files/projects/Modern C++/friend/friend_part_2/src/friend_part_2.h
+
+/home/shiv/Desktop/desktop_files/projects/Modern C++/friend/friend_part_2/src/main.cpp
+friend_part_2.h
+/home/shiv/Desktop/desktop_files/projects/Modern C++/friend/friend_part_2/src/friend_part_2.h
+

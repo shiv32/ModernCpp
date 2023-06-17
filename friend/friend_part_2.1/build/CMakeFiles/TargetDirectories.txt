@@ -1,0 +1,3 @@
+/home/shiv/Desktop/desktop_files/projects/Modern C++/friend/friend_part_2.1/build/CMakeFiles/rebuild_cache.dir
+/home/shiv/Desktop/desktop_files/projects/Modern C++/friend/friend_part_2.1/build/CMakeFiles/friend_part_2.dir
+/home/shiv/Desktop/desktop_files/projects/Modern C++/friend/friend_part_2.1/build/CMakeFiles/edit_cache.dir

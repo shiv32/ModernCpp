@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/friend_part_2.dir/src/friend_part_2.cpp.o CMakeFiles/friend_part_2.dir/src/main.cpp.o  -o friend_part_2 
