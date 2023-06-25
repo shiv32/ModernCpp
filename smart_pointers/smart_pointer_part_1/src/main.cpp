@@ -1,9 +1,8 @@
 
 /*
 
-unique_ptr : Smart pointer that owns and manages another object 
-             through a pointer and disposes of that object when 
-             the unique_ptr goes out of scope. 
+unique_ptr : Smart pointer that owns and manages another object through a pointer.
+             Disposes of that object when the unique_ptr goes out of scope. 
 
 Non-member functions
 make_unique  : Creates a unique pointer that manages a new object 
@@ -11,6 +10,7 @@ make_unique  : Creates a unique pointer that manages a new object
 Modifiers 
 reset : replaces the managed object 
 
+Function Template
 move(parameter) : Allowing the efficient transfer of resources from one object to another object. 
 
 */
