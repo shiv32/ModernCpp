@@ -5,10 +5,15 @@ shared_ptr :  Smart pointer that retains shared ownership of an object through a
               Several shared_ptr objects may own the same object.
 
 Non-member functions
-make_shared  : Creates a shared pointer that manages a new object 
+make_shared  : Creates a shared pointer that manages a new object
 
 Modifiers
 reset (public member function) : Replaces the managed object
+
+Observers
+use_count (public member function) : Returns the number of shared_ptr objects
+                                     referring to the same managed object
+
 
 */
 
