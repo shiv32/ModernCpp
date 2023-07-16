@@ -41,7 +41,7 @@ int main()
 
     std::cout << "------------------ shared_ptr test2 --------------------------" << std::endl;
 
-    // test2 pointer points to same object whose test pointer points
+    // test2 pointer points to same object whom test pointer points
     std::shared_ptr<Test> test2 = test;
 
     // retrieve the number of shared_ptr instances that are sharing the same resource
