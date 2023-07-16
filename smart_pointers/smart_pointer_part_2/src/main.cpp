@@ -14,7 +14,6 @@ Observers
 use_count (public member function) : Returns the number of shared_ptr objects
                                      referring to the same managed object
 
-
 */
 
 #include <iostream>
