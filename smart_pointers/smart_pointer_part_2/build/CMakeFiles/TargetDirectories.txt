@@ -1,3 +1,0 @@
-/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_2/build/CMakeFiles/rebuild_cache.dir
-/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_2/build/CMakeFiles/smart_pointer_part_2.dir
-/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_2/build/CMakeFiles/edit_cache.dir

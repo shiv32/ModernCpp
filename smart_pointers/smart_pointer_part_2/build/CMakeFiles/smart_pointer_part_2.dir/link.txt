@@ -1,1 +1,0 @@
-/usr/bin/clang++-6.0  -g   CMakeFiles/smart_pointer_part_2.dir/src/smart_pointer_part_2.cpp.o CMakeFiles/smart_pointer_part_2.dir/src/main.cpp.o  -o smart_pointer_part_2 
