@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_1/build",
+  "command": "/usr/bin/c++   -I\"/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_1/include\"  -g   -std=gnu++1z -o CMakeFiles/smart_pointer_part_1.dir/src/smart_pointer_part_1.cpp.o -c \"/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_1/src/smart_pointer_part_1.cpp\"",
+  "file": "/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_1/src/smart_pointer_part_1.cpp"
+},
+{
+  "directory": "/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_1/build",
+  "command": "/usr/bin/c++   -I\"/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_1/include\"  -g   -std=gnu++1z -o CMakeFiles/smart_pointer_part_1.dir/src/main.cpp.o -c \"/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_1/src/main.cpp\"",
+  "file": "/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_1/src/main.cpp"
+}
+]
