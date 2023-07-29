@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/smart_pointer_part_2.h
+iostream
+-
+memory
+-
+
+/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_2/src/main.cpp
+iostream
+-
+smart_pointer_part_2.h
+/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_2/src/smart_pointer_part_2.h
+
+/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_2/src/smart_pointer_part_2.cpp
+smart_pointer_part_2.h
+/home/shiv/Desktop/desktop_files/projects/Modern C++/smart_pointers/smart_pointer_part_2/src/smart_pointer_part_2.h
+
