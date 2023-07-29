@@ -3,6 +3,13 @@
 
 weak_ptr :  std::weak_ptr is a smart pointer that holds a non-owning ("weak") reference to an object
             that is managed by std::shared_ptr.
+
+Modifiers :
+reset (public member function) : Releases the ownership of the managed object
+
+Observers :
+lock (public member function) : Creates a shared_ptr that manages the referenced object
+
 */
 
 #include <iostream>
